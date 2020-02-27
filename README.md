@@ -1,3 +1,2 @@
 # weekOne
-Lab 1
-Dale Stephenson
+Lab 1 - SDV503

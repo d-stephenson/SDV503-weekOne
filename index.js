@@ -1,22 +1,25 @@
-console.log("Hello World")
+var numOne = 1, numTwo = 2, numThree = 3, numFour = 4, numFive = 5, numSix = 6, numSeven = 7, numEight = 8, numNine = 9, numZero = 0;
 
-var firstName;
-firstName = "Dale"
-console.log(firstName)
+sum = (numNine + (numThree * numEight))
 
-var lastName = "Stephenson"
-console.log(firstName + ' ' + lastName)
+console.log("sum = " + sum)
 
-    var a = 10;
-    var b = 25;
-    var sum = a * b;
-    console.log(sum);
+/*var globalVariable = 'I am global'
+const globalConstVariable = 'I am also global'
 
-    var a = 20, b = 35, sum = a + b;
-    console.log(sum);
+function myFunc() {
+    var myLocalVariable = 'I am local'
+    let myLocalLetVariable = 'I am also local'  
+    console.log(myLocalVariable)
+}
+myFunc()
 
-    var a, b, sum;
-    a = 30;
-    b = 45;
-    sum = a + b;
-    console.log(sum);
+function myFunc() {
+    var myLocalVariable = 'I am local'
+    let myLocalLetVariable = 'I am also local'  
+    function myInnerFunc() {
+        console.log(myLocalVariable)
+    }
+    return myInnerFunc()
+  }
+myFunc()*/

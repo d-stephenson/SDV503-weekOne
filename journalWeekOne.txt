@@ -1,0 +1,23 @@
+Journal 
+Week #One
+Lab #One
+
+Incredibly positive classes this week. It was fun applying some of the things I'd learnt over the holiday period in class session. 
+
+I am close to finishing freeCodeCamp, see enclosed .PNG file for reference. However it was beginning to be challenging beyond my present 
+ability so I intend to come back to the last few questions with greater understanding.
+
+In addition reading 'Eloquent Javascript' has helped a lot in understanding some of the basic syntax, and it was useful having my understanding 
+confirmed in class. 
+
+In order to get 'ahead' of this class session, aware that there is a conflict, I had created a calculator following some online tutorials 
+mainly to get the practice in, and becoming to become more familiar with the language, I have included that here under index.html. I also did 
+some basic number sums which are commented out at the bottom of this file.
+
+On index.js you will find the Lab as required and also a couple of the other challenges we did in class, including the one you tasked myself 
+and Noel with, you will find we solved the riddle!
+
+Until next week.
+
+Dale
+
